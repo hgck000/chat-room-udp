@@ -1,4 +1,4 @@
-communication
+chat-room-udp
 ==============
 
 Java-based chat room, which be used in local area network. It can be used with virtual machines or LANs.
